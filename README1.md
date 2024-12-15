@@ -81,13 +81,13 @@
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshrathore24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgeetkar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshrathore24&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bgeetkar&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshrathore24&" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgeetkar&" alt="GitHub Streak" />
 </p>
